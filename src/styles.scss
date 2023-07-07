@@ -95,7 +95,9 @@ select {
 }
 
 body {
-  background-color: lightblue;
+  background-color: #1e1e21;
+  display: grid;
+  place-content: center;
 }
 
 @import 'components/magic-wand/magic-wand.scss';
